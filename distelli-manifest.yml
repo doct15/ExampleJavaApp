@@ -3,7 +3,7 @@ bmcgehee2/ExampleJavaApp:
   # the development server to compile the java code.
   #
   # There is a build.sh script to compile the code for you.
-  #
+  
 
   Env:
     - CLASSPATH: 'target/*:lib/*'
